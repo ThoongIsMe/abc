@@ -1,0 +1,25 @@
+#overview {
+    color: red;
+    text-align: center;
+    font-size: 23px;
+    text-decoration: underline;
+}
+
+* {
+    background-color: cornsilk;
+}
+
+a:hover {
+    color: chartreuse;
+    text-decoration: underline;
+}
+
+a:active {
+    color: brown;
+    text-decoration: underline;
+}
+
+#pic {
+    margin-top: 50px;
+    margin-left: 160px;
+}
